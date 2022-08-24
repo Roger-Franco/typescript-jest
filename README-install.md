@@ -9,7 +9,7 @@ Coma  mudança no script, agora posso apenas usar o comando: "npm run test:silen
 
 
 
-mesa/aulas-typescript/25/03
+mesa/aulas-typescript/25/04
 
 repositorio: https://github.com/luizomf/typescript-jest-test
 
