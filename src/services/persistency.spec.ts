@@ -2,11 +2,11 @@ import { Persistency } from './persistency';
 
 describe('Persistency', () => {
   afterEach(() => jest.clearAllMocks()); // Limpa cada vez que faz testes
-  // it('Should return undefined', () => {
-  //   // Sytem under test
-  //   const sut = new Persistency();
-  //   expect(sut.saveOrder()).toBeUndefined();
-  // });
+  it('Should return undefined', () => {
+    // Sytem under test
+    const sut = new Persistency();
+    expect(sut.saveOrder()).toBeUndefined();
+  });
 
   it('Should call console.log once', () => {
     // Sytem under test
