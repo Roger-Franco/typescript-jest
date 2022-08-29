@@ -5,11 +5,12 @@ npx jest --init
 npx ts-jest config:init  => Outra forma de fazer o de cima
 npx jest => para fazer teste
 Coma  mudança no script, agora posso apenas usar o comando: "npm test"
-Coma  mudança no script, agora posso apenas usar o comando: "npm run test:silent"
+Com a  mudança no script, agora posso apenas usar o comando: "npm run test:silent"
+npx jest --coverage (Analisa a cobertura dos testes)
 
 
 
-mesa/aulas-typescript/25/11
+mesa/aulas-typescript/25/12
 
 repositorio: https://github.com/luizomf/typescript-jest-test
 
